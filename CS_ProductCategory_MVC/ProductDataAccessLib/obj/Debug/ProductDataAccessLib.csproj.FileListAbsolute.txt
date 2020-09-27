@@ -22,3 +22,15 @@ C:\DXCTraining\DXC .NET FILES\CASESTUDIES\CS_ProductCategory_MVC-master\ProductD
 C:\DXCTraining\DXC .NET FILES\CASESTUDIES\CS_ProductCategory_MVC-master\ProductDataAccessLib\bin\Debug\EntityFramework.xml
 C:\DXCTraining\DXC .NET FILES\CASESTUDIES\CS_ProductCategory_MVC-master\ProductDataAccessLib\bin\Debug\EntityFramework.SqlServer.xml
 C:\DXCTraining\DXC .NET FILES\CASESTUDIES\CS_ProductCategory_MVC-master\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.csproj.CopyComplete
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\bin\Debug\ProductDataAccessLib.dll.config
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\bin\Debug\ProductDataAccessLib.dll
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\bin\Debug\ProductDataAccessLib.pdb
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\bin\Debug\EntityFramework.dll
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\bin\Debug\EntityFramework.xml
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.csprojAssemblyReference.cache
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.csproj.CoreCompileInputs.cache
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.csproj.CopyComplete
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.dll
+C:\CASESTUDIES\CS_ProductCategory_MVC\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.pdb
