@@ -1,0 +1,12 @@
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopEntities\bin\Debug\JuiceShopEntities.dll
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopEntities\bin\Debug\JuiceShopEntities.pdb
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopEntities\obj\Debug\JuiceShopEntities.csproj.CoreCompileInputs.cache
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopEntities\obj\Debug\JuiceShopEntities.dll
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopEntities\obj\Debug\JuiceShopEntities.pdb
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopEntities\obj\Debug\JuiceShopEntities.csprojAssemblyReference.cache
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\CS_JuiceShop_Console-master\JuiceShopEntities\bin\Debug\JuiceShopEntities.dll
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\CS_JuiceShop_Console-master\JuiceShopEntities\bin\Debug\JuiceShopEntities.pdb
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\CS_JuiceShop_Console-master\JuiceShopEntities\obj\Debug\JuiceShopEntities.csprojAssemblyReference.cache
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\CS_JuiceShop_Console-master\JuiceShopEntities\obj\Debug\JuiceShopEntities.csproj.CoreCompileInputs.cache
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\CS_JuiceShop_Console-master\JuiceShopEntities\obj\Debug\JuiceShopEntities.dll
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\CS_JuiceShop_Console-master\JuiceShopEntities\obj\Debug\JuiceShopEntities.pdb

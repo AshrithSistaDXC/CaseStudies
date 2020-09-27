@@ -1,0 +1,27 @@
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\bin\Debug\MessageDAL.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\bin\Debug\MessageDAL.pdb
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\bin\Debug\MessageEntities.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\bin\Debug\MessageEntities.pdb
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\obj\Debug\MessageDAL.csprojAssemblyReference.cache
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\obj\Debug\MessageDAL.csproj.CoreCompileInputs.cache
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\obj\Debug\MessageDAL.csproj.CopyComplete
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\obj\Debug\MessageDAL.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\obj\Debug\MessageDAL.pdb
+G:\DXC .NET FILES\ASP.NETCASESTUDY(R)\MessageDAL\bin\Debug\MessageDAL.dll
+G:\DXC .NET FILES\ASP.NETCASESTUDY(R)\MessageDAL\bin\Debug\MessageDAL.pdb
+G:\DXC .NET FILES\ASP.NETCASESTUDY(R)\MessageDAL\bin\Debug\MessageEntities.dll
+G:\DXC .NET FILES\ASP.NETCASESTUDY(R)\MessageDAL\bin\Debug\MessageEntities.pdb
+G:\DXC .NET FILES\ASP.NETCASESTUDY(R)\MessageDAL\obj\Debug\MessageDAL.csprojAssemblyReference.cache
+G:\DXC .NET FILES\ASP.NETCASESTUDY(R)\MessageDAL\obj\Debug\MessageDAL.csproj.CoreCompileInputs.cache
+G:\DXC .NET FILES\ASP.NETCASESTUDY(R)\MessageDAL\obj\Debug\MessageDAL.csproj.CopyComplete
+G:\DXC .NET FILES\ASP.NETCASESTUDY(R)\MessageDAL\obj\Debug\MessageDAL.dll
+G:\DXC .NET FILES\ASP.NETCASESTUDY(R)\MessageDAL\obj\Debug\MessageDAL.pdb
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\ASP.NETCASESTUDY\MessageDAL\bin\Debug\MessageDAL.dll
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\ASP.NETCASESTUDY\MessageDAL\bin\Debug\MessageDAL.pdb
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\ASP.NETCASESTUDY\MessageDAL\bin\Debug\MessageEntities.dll
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\ASP.NETCASESTUDY\MessageDAL\bin\Debug\MessageEntities.pdb
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\ASP.NETCASESTUDY\MessageDAL\obj\Debug\MessageDAL.csprojAssemblyReference.cache
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\ASP.NETCASESTUDY\MessageDAL\obj\Debug\MessageDAL.csproj.CoreCompileInputs.cache
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\ASP.NETCASESTUDY\MessageDAL\obj\Debug\MessageDAL.csproj.CopyComplete
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\ASP.NETCASESTUDY\MessageDAL\obj\Debug\MessageDAL.dll
+C:\DXCTraining\DXC .NET FILES\CASESTUDIES\ASP.NETCASESTUDY\MessageDAL\obj\Debug\MessageDAL.pdb

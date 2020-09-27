@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main.master.cs" Inherits="OnlineParentsMesssage.main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+
+        .auto-style2 {
+            background-color: #66FF33;
+            font-size: xx-large;
+        }
+        .auto-style3 {
+            height: 850px;
+        }
+    </style>
+</head>
+<body style="height: 797px">
+    <%--<form id="form4" runat="server">
+        <div>
+            
+        </div>
+    </form>--%>
+    <form id="form1" runat="server">
+        <div class="auto-style3" style="background-image: url('/Images/bgimghome.jpg')">
+            <strong><span class="auto-style2">ABC International School,Bangalore<br />
+            <br />
+            Online Parents Group-Let Us Talk For Our Kids</span></strong>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
